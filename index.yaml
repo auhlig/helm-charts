@@ -3,8 +3,8 @@ generated: 2018-04-02T17:03:20.501948+02:00
 entries:
   kube-monitoring:
     - urls:
-        - https://raw.githubusercontent.com/sapcc/helm-charts/repo
+        - https://raw.githubusercontent.com/auhlig/helm-charts/repo
       name: kube-monitoring
       description: bar
       version: 0.1.0
-      home: https://github.com/sapcc/helm-charts/tree/master/system/kube-monitoring
+      home: https://github.com/auhlig/helm-charts/tree/master/system/kube-monitoring
