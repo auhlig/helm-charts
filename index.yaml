@@ -3,7 +3,7 @@ generated: 2018-04-02T17:03:20.501948+02:00
 entries:
   vice-president:
     - urls:
-        - system/kube-system/charts/vice-president/vice-president-0.1.1.tgz
+        - https://github.com/auhlig/helm-charts/blob/master/system/kube-system/charts/vice-president/vice-president-0.1.1.tgz
       name: vice-president
       description: VICE president
       version: 0.1.1
